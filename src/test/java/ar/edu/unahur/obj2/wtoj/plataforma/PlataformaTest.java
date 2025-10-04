@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.wtoj;
+package ar.edu.unahur.obj2.wtoj.plataforma;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
